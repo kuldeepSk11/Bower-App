@@ -1,0 +1,25 @@
+{
+  "name": "bower",
+  "authors": [
+    "kuldeep"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.1.3",
+    "animate.css": "^3.7.0",
+    "fontawesome": "^5.3.1",
+    "wow": "wowjs#^1.1.2",
+    "angular": "^1.7.5"
+  }
+}
